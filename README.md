@@ -1,5 +1,5 @@
 - Hi, I’m Govind👋 👨‍💻
 - 🎓I am currently studying Computer Science Engineering at National Institute of Technology,Agartala.
-- 💻I’m interested in Android Development, DSA and Competitive Programming.
-- 🌱 I’m currently learning Native Android Development using Kotlin and I practice regulary on LeetCode, Codeforces and CodeChef.
+- 💻I’m interested in Hackathons, DSA and Competitive Programming.
+- 🌱I practice regulary on LeetCode, Codeforces and CodeChef.
 - 📫 You can email me at govindyadav2058@gmail.com! I'll respond as soon as I can.
