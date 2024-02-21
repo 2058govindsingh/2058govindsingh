@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">Hi, I'm Govind, a full-stack developer 👨‍💻 learning new technologies everyday 🚀</div>
+### <div align="center">Hi, I'm Govind, a Backend developer 👨‍💻 learning new technologies everyday 🚀</div>
 
 <br/>
 
