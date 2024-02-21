@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning backend technologies
 
-- ❓ Ask me about anything related to MEN stack and related technologies
+- ❓ I also possess strong competitive programming and DSA skills.
 
-- ⚡ Fun fact: I love to use ; in Javascript(just competitive programmer things;)
+- ⚡ Fun fact: I love to use ; in Javascript
 
 <br/>
 
